@@ -26,25 +26,33 @@
 
 ## 🧑‍💻 About Me
 
-sumit = {
-    "name"       : "Sumit Kumar Gupta",
-    "degree"     : "B.Tech – Information Technology (2023–2027)",
-    "college"    : "JSS Academy of Technical Education, Noida",
-    "cgpa"       : 8.44,
-    "languages"  : ["Python", "C++", "SQL", "JavaScript"],
-    "interests"  : ["Software Development", "Machine Learning", "Data Analytics",
-                    "NLP", "Full-Stack Development"],
-    "motto"      : "Solve real-world problems through technology 🚀"
-}
+<table>
+<tr>
+<td>
 
+🎓 B.Tech IT @ JSS Noida
 
-- 🎓 **B.Tech IT student** at JSS Academy, Noida — CGPA **8.44/10**
-- 🐍 Strong foundation in **Python**, **C++**, **SQL**, and **JavaScript**
-- 🤖 Passionate about **Machine Learning**, **NLP**, and **Data Analytics**
-- 🌐 Building full-stack apps with **React**, **Node.js**, and **REST APIs**
-- 📈 Open-source enthusiast and continuous learner
-- 🎯 Goal: Craft scalable, impactful software that solves real problems
+📊 CGPA: 8.44
 
+💻 Python | C++ | SQL | JavaScript
+
+🤖 Machine Learning Enthusiast
+
+📈 Data Analytics Explorer
+
+🌐 Full-Stack Developer
+
+🚀 Open Source Learner
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarGuptaa&layout=compact&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Technical Skills
