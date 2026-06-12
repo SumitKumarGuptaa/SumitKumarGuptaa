@@ -45,12 +45,6 @@
 🚀 Open Source Learner
 
 </td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarGuptaa&layout=compact&theme=tokyonight"/>
-
-</td>
 </tr>
 </table>
 ---
