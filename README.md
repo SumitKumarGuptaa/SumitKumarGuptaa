@@ -26,7 +26,6 @@
 
 ## 🧑‍💻 About Me
 
-```python
 sumit = {
     "name"       : "Sumit Kumar Gupta",
     "degree"     : "B.Tech – Information Technology (2023–2027)",
@@ -37,7 +36,7 @@ sumit = {
                     "NLP", "Full-Stack Development"],
     "motto"      : "Solve real-world problems through technology 🚀"
 }
-```
+
 
 - 🎓 **B.Tech IT student** at JSS Academy, Noida — CGPA **8.44/10**
 - 🐍 Strong foundation in **Python**, **C++**, **SQL**, and **JavaScript**
