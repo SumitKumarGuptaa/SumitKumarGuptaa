@@ -213,26 +213,6 @@ sumit = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitKumarGuptaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=SumitKumarGuptaa&theme=tokyonight&hide_border=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarGuptaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-<!-- Contribution Graph -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SumitKumarGuptaa&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 🏆 Achievements & Academics
 
 <div align="center">
